@@ -12,7 +12,7 @@
 }
 .row{
   display: flex;
-  flex-wrap: row wrap
+  flex-wrap: wrap
 }
 
 .input{
